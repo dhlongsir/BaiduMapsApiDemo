@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">阳光悦跑</string>
+    <string name="action_search">搜索</string>
+    <string name="action_plus">更多</string>
+    <string name="action_album"></string>
+    <string name="action_collection">我的收藏</string>
+    <string name="action_card">一键呼救</string>
+    <string name="action_settings">设置</string>
+    <string name="action_feed">意见反馈</string>
+    <string name="plus_group_chat">发起跑步</string>
+    <string name="plus_add_friend">添加朋友</string>
+    <string name="plus_video_chat"></string>
+    <string name="plus_scan"></string>
+    <string name="plus_take_photo">拍照分享</string>
+
+</resources>
